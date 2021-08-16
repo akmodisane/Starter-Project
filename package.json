@@ -1,0 +1,29 @@
+{
+  "name": "starter-html-template",
+  "version": "1.0.0",
+  "description": "Starter Html Template Using Gulp-sass and Autoprefixer and BrowserSync",
+  "main": "index.js",
+  "scripts": {
+    "": ""
+  },
+  "keywords": [
+    "browser-sync",
+    "gulp",
+    "gulp-sass",
+    "sass",
+    "autoprefixer",
+    "postcss-cli"
+  ],
+  "author": "Alex Modisane",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.37.5"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss-cli": "^8.3.1"
+  }
+}
